@@ -10,4 +10,4 @@
 
 #### Experience
 
-OutSystems Developer Apprentice | Systems Analyst Java and PHP | Project Manager | Software Engineer | Business Intelligence | Machine Learning | Computer Science Professor | Master in computational technologies
+Professor of systems analysis course for technical and higher level at IFPR (Federal Institute of Paraná) and Cesufoz (Center of higher education of Foz do Iguaçu) | OutSystems Developer Apprentice | Systems Analyst Java and PHP | Project Manager | Software Engineer | Business Intelligence | Machine Learning
