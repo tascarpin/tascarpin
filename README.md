@@ -10,4 +10,4 @@
 
 #### Experience
 
-System Analyst at Parque Tecnologico Itaipu | Professor of systems analysis course for technical and higher level at IFPR (Federal Institute of Paraná) and Cesufoz (Center of higher education of Foz do Iguaçu) | Systems Analyst Java and PHP | Project Manager | Software Engineer | Business Intelligence | Machine Learning
+System Analyst at Parque Tecnologico Itaipu | Professor of systems analysis course for technical and higher level at IFPR (Federal Institute of Paraná) and Cesufoz (Center of higher education of Foz do Iguaçu) | Systems Analyst | Project Manager | Software Engineer | Business Intelligence | Machine Learning
