@@ -10,4 +10,10 @@
 
 #### Experience
 
-System Analyst at Parque Tecnologico Itaipu | Professor of systems analysis course for technical and higher level at IFPR (Federal Institute of Paraná) and Cesufoz (Center of higher education of Foz do Iguaçu) | Systems Analyst | Project Manager | Software Engineer | Business Intelligence | Machine Learning
+I've been a systems developer for over 10 years working with technologies like Spring, Django, Laravel, and React. 
+I know the conception of software to its implementation using Microservices, JIRA, Jenkins, Rest, SOAP, Scrum, CI/CD, PostgreSQL and MySql, Git, Docker, Cloud Service, Modeling, and Software Engineering.
+I want challenges that can add even more knowledge and professional development.
+
+Master in Computational Technologies for Agribusiness (Universidade Tecnológica Federal do Paraná), MBA in Project Management (Centro Universitário UDC), and graduated in Bachelor of Computer Science (Faculdade Anglo Americano).
+
+Want to know me better or exchange an idea? Leave a message that has pleasure or a response.
